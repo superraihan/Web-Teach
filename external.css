@@ -1,0 +1,21 @@
+body {
+    
+    background-color: lightskyblue;
+    text-align: center;
+    color:black;
+}
+
+fieldset{
+    
+    position: relative;
+    left: 36%;
+    width: 400px;
+    background-color: rgb(153, 182, 241);
+}
+legend{
+    font-weight: bold;
+}
+input{
+    font-weight: bold;
+}
+
